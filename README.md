@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: My final year project using Full-stack MERN.<br>👯 I’m looking to collaborate on: Beginner-friendly open source projects<br>🤝 I’m looking for help with: Understanding Data Structures & Algorithms<br>🌱 I’m currently learning: Python, NoSQL Databases, Frontend development and Backend development<br>💬 Ask me about: My journey into tech and what I'm studying.<br>⚡ Fun fact: My first "Hello World" was in C back in 2023.
+<br>👯 I’m looking to collaborate on: Beginner-friendly open source projects<br>🤝 I’m looking for help with: Understanding Data Structures & Algorithms<br>🌱 I’m currently learning: Python, NoSQL Databases, Frontend development and Backend development<br>💬 Ask me about: My journey into tech and what I'm studying.<br>⚡ Fun fact: My first "Hello World" was in C back in 2023.
 
 
 ## 🌐 Socials:
